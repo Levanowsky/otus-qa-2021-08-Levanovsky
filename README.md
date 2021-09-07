@@ -1,1 +1,3 @@
-git-project-qa-js
+##README FILE##
+About project 
+Test
