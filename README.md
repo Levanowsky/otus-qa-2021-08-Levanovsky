@@ -1,3 +1,7 @@
 ##README FILE##
 About project 
-Test
+
+# TEST #
+*F1
+*F2
+*F3
